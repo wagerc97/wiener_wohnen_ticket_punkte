@@ -1,0 +1,10 @@
+{
+  "name": "wiener-wohnen-ticket-punkte",
+  "private": true,
+  "scripts": {
+    "lint": "htmlhint index.html"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.6.3"
+  }
+}
